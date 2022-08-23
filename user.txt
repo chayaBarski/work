@@ -1,0 +1,2 @@
+dispensersCount=10
+ var connectionsCount=10 
