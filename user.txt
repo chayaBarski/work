@@ -1,1 +1,1 @@
-connectionsCount=10
+connectionsCount=20
