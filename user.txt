@@ -1,1 +1,1 @@
-dispensersCount=10
+connectionsCount=10
