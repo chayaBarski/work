@@ -1,2 +1,3 @@
 dispensersCount=10
  var connectionsCount=10 
+pipesCount=10
